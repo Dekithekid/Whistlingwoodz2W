@@ -72,7 +72,7 @@ ii.	Output and observation of submitted inquiries in MS Word/Excel
 iii.	Ability to provide automated reports and data for analysis
 
 Feedback
-If you have any feedback, please reach out to me at redrumjh@gmail.com
+If you have any feedback, please reach out to me at hahuyhoang2003@gmail.com
 
 License
 It can be copied, modified, and redistributed by others. For more information, click the link below. MIT License
