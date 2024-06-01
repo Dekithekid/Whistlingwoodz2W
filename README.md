@@ -26,7 +26,7 @@ Role & Responsibility:
 Part A
 1. Team Leader – Rola (Communication Management, Project control)
 2. Project Manager – Hoang (Jira & Confluence, Project control, Documentation)
-3. Supporter - Rola, Hoang, Ubaid (Notetaker for meeting, UI helper, Jira & Confluence) 
+3. Supporter - Rola, Hoang, Ubaid, Shaiq (Notetaker for meeting, UI helper, Jira & Confluence) 
 4. Designer – Wei (UX/UI design)
 5. Cyber security - Rola
 
@@ -35,7 +35,7 @@ Part B
 2. Programming - Hoang, Shaiq
 3. Data Analytics & Visualisation - Ubaid, Wei
 4. Network - Rola
-5. Database - Shaiq
+5. Database - Ubaid
 6. Design - Wei
 7. Cloud - Rola
 
