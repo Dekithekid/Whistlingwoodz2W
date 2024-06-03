@@ -2,6 +2,10 @@
 Whistlingwoodz2W is a group of people working on whistlingwoodz wedding app 
 Welcome to our GitHub page. 
 
+Link for our code:
+https://latrobeuni-my.sharepoint.com/:u:/g/personal/20900837_students_ltu_edu_au/ERzk-A6DIgROmqUeBq4zeeAB6x9E64vnX0evVj1RC_-moA?e=saSVFS
+
+
 This is the ctrl-wedding-app repository for the Group 2 Whistlingwoodz2W team.
 This is a team project for making an app for the WhistlingWoodz event company. The purpose of this project is not only to make the Whistling Woods company known and increase our clientele but also to experience what a real project feels like and learn a lot about working as a team.
 Team name: Whistlingwoodz2W (Whislingwoodz is our project, 2 is our team number)
