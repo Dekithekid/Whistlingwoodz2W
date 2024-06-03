@@ -4,7 +4,7 @@ Welcome to our GitHub page.
 
 This is the ctrl-wedding-app repository for the Group 2 Whistlingwoodz2W team.
 This is a team project for making an app for the WhistlingWoodz event company. The purpose of this project is not only to make the Whistling Woods company known and increase our clientele but also to experience what a real project feels like and learn a lot about working as a team.
-Team name: Ctrl+V (Creative Team Resources Lab + Variety)
+Team name: Whistlingwoodz2W (Whislingwoodz is our project, 2 is our team number)
 Meaning:
 
 1. Whistlingwoodz2W means we are the second group doing Whislingwoodz project.
@@ -20,7 +20,7 @@ Team values and behaviours:
 
 Team meeting schedule:
 - Wednesday each week, in class and after class.
-- Saturday/Sunday evenning, all members.
+- Saturday/Sunday evening, all members.
 
 Role & Responsibility:
 Part A
